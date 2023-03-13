@@ -11,7 +11,7 @@ Coming soon...
 ### Contact details
 If you have any questions please contact us.
 
-Goethe University Frankfurt, Biologium, Campus Riedberg, Max-von-Laue-Str.13, 60438 Frankfurt am Main, Germany.
+Address: Goethe University Frankfurt, Biologium, Campus Riedberg, Max-von-Laue-Str.13, 60438 Frankfurt am Main, Germany.
 
 Email: hollert@bio.uni-frankfurt.de (Henner Hollert); a.schiwy@bio.uni-frankfurt.de (Andreas Schiwy)
 
