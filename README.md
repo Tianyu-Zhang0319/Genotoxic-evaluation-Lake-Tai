@@ -19,6 +19,6 @@ Address: Goethe University Frankfurt, Biologium, Campus Riedberg, Max-von-Laue-S
 
 Email: hollert@bio.uni-frankfurt.de (Henner Hollert); a.schiwy@bio.uni-frankfurt.de (Andreas Schiwy)
 
-Links: [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en?legacy_request=1) [Henner Hollert's group](https://www.bio.uni-frankfurt.de/43970666/Abt__Hollert)
+Links: [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en?legacy_request=1), [Henner Hollert's group](https://www.bio.uni-frankfurt.de/43970666/Abt__Hollert)
 
 <img src="https://github.com/Tianyu-Zhang0319/Genotoxic-evaluation-Lake-Tai/blob/main/Figures/Goethe.png" width="253" height="132"/>
