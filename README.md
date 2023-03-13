@@ -2,7 +2,7 @@
 Genotoxic evaluation of sediment samples from Lake Tai, China using in vitro micronucleus assay combined automated deep learning scoring.
 
 ### Model
-<img src="https://github.com/Tianyu-Zhang0319/Genotoxic-evaluation-Lake-Tai/blob/main/Figures/Goethe.png" width="253" height="132"/>
+<img src="https://github.com/Tianyu-Zhang0319/Genotoxic-evaluation-Lake-Tai/blob/main/Figures/Model.png" width="253" height="132"/>
 
 
 ### Result
