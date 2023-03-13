@@ -5,6 +5,7 @@ Genotoxic evaluation of sediment samples from Lake Tai, China using in vitro mic
 Coming soon...
 
 ### Model
+Model details and flowchart for this study.
 <img src="https://github.com/Tianyu-Zhang0319/Genotoxic-evaluation-Lake-Tai/blob/main/Figures/Model.png"/>
 
 
