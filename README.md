@@ -1,8 +1,5 @@
 # Genotoxic-evaluation-Lake-Tai
-Genotoxic evaluation of sediment samples from Lake Tai, China using in vitro micronucleus assay combined automated deep learning scoring.
-
-### Background
-Coming soon...
+Developing a Deep Learning-Based Image Analysis Model for Genotoxicity Assessment in the Micronucleus Assay: A Practical Application to Sediment Quality in Taihu and Yangcheng Lakes, China
 
 ### Model
 Model details and flowchart for this study.
