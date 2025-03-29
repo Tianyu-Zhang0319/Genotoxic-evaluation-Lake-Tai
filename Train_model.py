@@ -12,6 +12,7 @@ from tensorflow.keras import layers
 import random
 import cv2
 
+
 input_dir = "./SegCell_20230313/images/"
 target_dir = "./SegCell_20230313/trimaps/"
 img_size = (512, 512)
