@@ -10,7 +10,7 @@ Model details and flowchart for this study.
 
 
 ### Result
-Part of the results in this study.
+Some of the results of this study.
 <img src="https://github.com/Tianyu-Zhang0319/Genotoxic-evaluation-Lake-Tai/blob/main/Figures/Results.png"/>
 
 
